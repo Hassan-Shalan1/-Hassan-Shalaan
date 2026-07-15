@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Hassan Hany
+#👋 Hassan Hany
 
 ### 💻 Computer Science Student | .NET Backend Developer
 
