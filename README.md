@@ -1,8 +1,8 @@
 <div align="center">
 
-#👋 Hassan Hany
+👋 Hassan Hany
 
-### 💻 Computer Science Student | .NET Backend Developer
+ 💻 .NET Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;ASP.NET+Core+Backend+Developer;Passionate+about+Software+Engineering;Always+Learning+New+Technologies" />
 
